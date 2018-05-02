@@ -25,7 +25,7 @@ class HidePasswordReset extends \Piwik\Plugin
 			$outString = "-->";
 			
 			$settings = new SystemSettings();
-			$outString .= Common::sanitizeString($settings->message->getValue());
+			$outString .= \Piwik\Common::sanitizeInputValues($settings->message->getValue());
 		}
 	}
 }

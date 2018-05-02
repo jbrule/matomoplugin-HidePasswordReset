@@ -1,0 +1,25 @@
+{
+    "name": "HidePasswordReset",
+    "description": "Hides the \"Lost your password?\" option on login form",
+    "version": "1.0.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.3.0-stable,<4.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Josh Brule",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "issues": "https:\/\/github.com\/jbrule\/matomoplugin-HidePasswordReset\/issues"
+    },
+    "homepage": "https:\/\/github.com\/jbrule\/matomoplugin-HidePasswordReset",
+    "license": "GPL v3+",
+    "keywords": [
+        "login",
+        "password reset"
+    ]
+}

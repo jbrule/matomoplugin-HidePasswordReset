@@ -17,6 +17,8 @@ The userSettings template does not provide a clean way to remove the option.
 
 ## Changelog
 1.0.0 Initial Release
+1.1.0 Marketplace Tag
+1.2.0 Fixed screenshot filenames
 
 ## License
 GPL v3 / fair use

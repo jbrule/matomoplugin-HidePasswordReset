@@ -9,7 +9,7 @@ Hides the "Lost your password?" option on login form. This plugin was created to
 1.1.0 Marketplace Tag
 1.2.0 Fixed screenshot filenames
 1.3.0 Fixed error upon login
-1.3.1 Reorganized docs and implemented new marketplace webhook
+1.3.2 Reorganized docs and implemented new marketplace webhook
 
 ## License
 GPL v3 / fair use

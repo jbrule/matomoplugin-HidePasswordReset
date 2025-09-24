@@ -1,7 +1,7 @@
 {
     "name": "HidePasswordReset",
     "description": "Hides the Lost your password? option on login form and allows to replace with a different message.",
-    "version": "5.0.0",
+    "version": "5.4.0",
     "theme": false,
     "require": {
         "matomo": ">=4.0.0-b1,<6.0.0-b1"
